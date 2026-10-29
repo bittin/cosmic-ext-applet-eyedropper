@@ -58,6 +58,8 @@ just flatpak-install     # Build and install the Flatpak from the working tree
 
 Contributions are welcome. Feel free to open issues or submit pull requests.
 
+Want to help translate Eyedropper? The [translation guide](CONTRIBUTING.md#adding-a-translation) walks through the text inside the app, store description, and desktop name and description.
+
 ## License
 
 [MPL-2.0](LICENSE)
