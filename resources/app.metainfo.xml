@@ -30,18 +30,18 @@
       Klikněte na ikonu kapátka v panelu a poté na libovolný pixel, jehož barvu chcete
       zachytit.
     </p>
-    <p xml:lang="pl">
-      Pobieraj kolory z dowolnego miejsca ekranu dzięki temu apletowi.
-      Naciśnij ikonę Eyedroppera w panelu, a następnie kliknij dowolny piksel by go pobrać.
-    </p>
-    <ul xml:lang="cs">
+    <ul>
       <li xml:lang="cs">Lupa s přiblížením 8×–24× sleduje kurzor pro přesný výběr pixelů</li>
       <li xml:lang="cs">Kopírujte barvy jako HEX, RGB nebo HSL</li>
       <li xml:lang="cs">Volitelné automatické kopírování do schránky po výběru</li>
       <li xml:lang="cs">Historie barev v rozbalovacím okně panelu</li>
       <li xml:lang="cs">Spuštění výběru jedním krokem pomocí klávesové zkratky</li>
     </ul>
-    <ul xml:lang="pl">
+    <p xml:lang="pl">
+      Pobieraj kolory z dowolnego miejsca ekranu dzięki temu apletowi.
+      Naciśnij ikonę Eyedroppera w panelu, a następnie kliknij dowolny piksel by go pobrać.
+    </p>
+    <ul>
       <li xml:lang="pl">Lupa z przybliżeniem x8-x24 która podąża za kursorem dla niezrównanej precyzji pobierania</li>
       <li xml:lang="pl">Kopiuj kolory jako HEX, RGB albo HSL</li>
       <li xml:lang="pl">Opcjonalne automatyczne kopiowanie do schowka po wyborze</li>
